@@ -25,3 +25,7 @@ Revisa tus configuraciones y haz clic en "Terminar la instalación" para finaliz
 ##  Acceder a Nextcloud
 
 Inicia sesión con tu cuenta de administrador y comienza a utilizar Nextcloud para almacenar y compartir tus archivos.
+
+## Crear usuario y grupo
+
+Dentro del dashboard de nextcloud nos dirigimos al desplegable en la esquina superior derecha y le damos a la bolita con nuestra foto de perfil, esto abrirá un desplegable en el que le daremos clic en **usuarios**. Una ver hecho esto en la derecha podemos crear un grupo nuevo y arriba en el centro un nuevo usuario.
