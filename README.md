@@ -4,6 +4,6 @@
 
 ## [owncloud](/owncloud/README.md)
 
-## [configuracion nextcloud](/configuracion-nextcloud/README.md)
+## [configuracion nextcloud](/conf-nextcloud/README.md)
 
-## [configuracion owncloud](/configuracion-owncloud/README.md)
+## [configuracion owncloud](/conf-owncloud/README.md)
