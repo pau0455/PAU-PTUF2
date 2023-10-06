@@ -1,9 +1,9 @@
 # PAU-PTUF2
 
-## [nextcloud](/nextcloud/README.md)
+## [nextcloud](/nextcloud/guide.md)
 
-## [owncloud](/owncloud/README.md)
+## [owncloud](/owncloud/guide.md)
 
-## [configuracion nextcloud](/conf-nextcloud/README.md)
+## [configuracion nextcloud](/conf-nextcloud/guide.md)
 
-## [configuracion owncloud](/conf-owncloud/README.md)
+## [configuracion owncloud](/conf-owncloud/guide.md)

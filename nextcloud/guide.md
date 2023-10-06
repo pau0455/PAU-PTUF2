@@ -9,7 +9,7 @@
 vagrant utiliza un directorio diferente para cada proyecto, para empezar crearemos ese directorio, a este lo pedemos llamar como queramos, pero para este caso lo llamaremos nextcloud.
 
 ```console
-kdir nextcloud
+mkdir nextcloud
 cd nextcloud/
 ```
 
@@ -49,7 +49,7 @@ Descargar el fichero de **nextcloud** desde su página official: https://nextclo
 y este fichero lo movemos a `/var/www/html`
 
 ```console
-mv lastest.zip /var/www/html
+mv latest.zip /var/www/html
 ```
 Y lo extraemos
 
